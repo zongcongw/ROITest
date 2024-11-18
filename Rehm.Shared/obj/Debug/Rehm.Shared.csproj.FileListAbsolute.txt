@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\MyToDo.Shared\bin\Debug\MyToDo.Shared.dll
+C:\Users\admin\source\repos\MyToDo.Shared\bin\Debug\MyToDo.Shared.pdb
+C:\Users\admin\source\repos\MyToDo.Shared\obj\Debug\Rehm.Shared.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MyToDo.Shared\obj\Debug\Rehm.Shared.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MyToDo.Shared\obj\Debug\MyToDo.Shared.dll
+C:\Users\admin\source\repos\MyToDo.Shared\obj\Debug\MyToDo.Shared.pdb
+C:\Users\admin\source\repos\Rehm.Shared\bin\Debug\Rehm.Shared.dll
+C:\Users\admin\source\repos\Rehm.Shared\bin\Debug\Rehm.Shared.pdb
+C:\Users\admin\source\repos\Rehm.Shared\obj\Debug\Rehm.Shared.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Rehm.Shared\obj\Debug\Rehm.Shared.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Rehm.Shared\obj\Debug\Rehm.Shared.dll
+C:\Users\admin\source\repos\Rehm.Shared\obj\Debug\Rehm.Shared.pdb

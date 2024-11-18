@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\MyToDo.Shared\bin\Debug\MyToDo.Shared.dll
+C:\Users\admin\source\repos\MyToDo.Shared\bin\Debug\MyToDo.Shared.pdb
+C:\Users\admin\source\repos\MyToDo.Shared\obj\Debug\MyToDo.Shared.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MyToDo.Shared\obj\Debug\MyToDo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MyToDo.Shared\obj\Debug\MyToDo.Shared.dll
+C:\Users\admin\source\repos\MyToDo.Shared\obj\Debug\MyToDo.Shared.pdb
